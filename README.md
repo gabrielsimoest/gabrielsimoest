@@ -1,9 +1,12 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://gabrielsimoesdeveloper.com.br">Gabriel Simões</a></b>
-                <img alt="Website" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
         </samp>
 </h3>
+<div  align="center">
+        <img alt="Website" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+        <img alt="Website" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+</div>
 <br>
 
 <p align="center">
@@ -14,15 +17,17 @@
                 <br>
                 <br>
                 <p align="center">Find me on</p>
-                <a align="center" href="mailto:gabrielsimoest@gmail.com" target="_blank"><img alt="Mail"
-                        src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-                </a> 
-                <a align="center" href="https://www.linkedin.com/in/gabriel-sim0es" target="_blank"><img alt="Linkedin"
-                        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-                </a> 
-                <a align="center" href="https://www.linkedin.com/in/gabriel-sim0es" target="_blank"><img alt="Website"
-                        src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-                </a>
+                <div  align="center">
+                        <a href="mailto:gabrielsimoest@gmail.com" target="_blank"><img alt="Mail"
+                                src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+                        </a> 
+                        <a href="https://www.linkedin.com/in/gabriel-sim0es" target="_blank"><img alt="Linkedin"
+                                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+                        </a> 
+                        <a href="https://www.linkedin.com/in/gabriel-sim0es" target="_blank"><img alt="Website"
+                                src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+                        </a>
+                </div>
         </samp>
 </p>
 
