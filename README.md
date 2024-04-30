@@ -3,6 +3,7 @@
                 <b><a target="_blank" href="https://gabrielsimoesdeveloper.com.br">Gabriel Simões</a></b>
         </samp>
 </h3>
+<p align="center">My main technologies</p>
 <div  align="center">
         <img alt="Website" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"> 
         <img alt="Website" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> 
@@ -25,10 +26,10 @@
                 <div  align="center">
                         <a href="mailto:gabrielsimoest@gmail.com" target="_blank"><img alt="Mail"
                                 src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-                        </a> 
+                        </a>  
                         <a href="https://www.linkedin.com/in/gabriel-sim0es" target="_blank"><img alt="Linkedin"
                                 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-                        </a> 
+                        </a>  
                         <a href="https://www.linkedin.com/in/gabriel-sim0es" target="_blank"><img alt="Website"
                                 src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
                         </a>
