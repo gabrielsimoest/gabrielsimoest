@@ -19,6 +19,7 @@
 
 <br/>
 
+<div>
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
@@ -28,7 +29,9 @@ const gabriel = {
     experience: "C# & .NET Specialist",
     passions: ["Clean Code", "Design Patterns", "SOLID"],
     currentFocus: "Building scalable enterprise solutions",
-    funFact: "I turn coffee into code ☕ → 💻"
+    funFact: "I turn coffee into code ☕ → 💻",
+    motto: "Clean code is not written by chance",
+    hobbies: ["Coding", "Learning", "Problem Solving"]
 };
 ```
 
@@ -39,6 +42,7 @@ const gabriel = {
 - 📚 Always learning and evolving with new technologies
 - 🤝 Open to collaborations on interesting projects
 - 💬 Ask me about **C#, .NET, SQL Server, Clean Architecture**
+</div>
 
 <br clear="right"/>
 
