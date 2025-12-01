@@ -1,8 +1,6 @@
 <!-- Header com animação de typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=1a1a2e&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Sim%C3%B5es+%F0%9F%91%8B;Software+Developer+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Especialista+em+C%23+%26+.NET;Apaixonado+por+Design+Patterns" alt="Typing SVG" />
-</div>
-
+  
 <!-- Banner animado -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=Gabriel%20Simões&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20elegant%20solutions%20with%20clean%20code&descAlignY=52&descSize=18"/>
@@ -77,15 +75,6 @@ const gabriel = {
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-<br>
 <!-- Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
