@@ -1,8 +1,3 @@
-<!-- Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=Gabriel%20Simões&fontSize=42&fontColor=fff&fontAlignY=32&desc=Building%20elegant%20solutions%20with%20clean%20code&descAlignY=52&descSize=18"/>
-</div>
-
 <!-- Language Selector -->
 <div align="center">
   <img src="https://img.shields.io/badge/🇺🇸_English-Selected-6C63FF?style=for-the-badge" alt="English"/>
@@ -88,25 +83,9 @@ const gabriel = {
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
 <!-- Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer"/>
 </div>
 
 <div align="center">
