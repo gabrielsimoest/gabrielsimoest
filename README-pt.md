@@ -1,22 +1,22 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=Gabriel%20Simões&fontSize=42&fontColor=fff&fontAlignY=32&desc=Building%20elegant%20solutions%20with%20clean%20code&descAlignY=52&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=180&section=header&text=Gabriel%20Simões&fontSize=42&fontColor=fff&fontAlignY=32&desc=Construindo%20soluções%20elegantes%20com%20código%20limpo&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Language Selector -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🇺🇸_English-Selected-6C63FF?style=for-the-badge" alt="English"/>
-  &nbsp;&nbsp;
-  <a href="./README-pt.md">
-    <img src="https://img.shields.io/badge/🇧🇷_Português-Clique_Aqui-1a1a2e?style=for-the-badge" alt="Português"/>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🇺🇸_English-Click_Here-1a1a2e?style=for-the-badge" alt="English"/>
   </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🇧🇷_Português-Selecionado-6C63FF?style=for-the-badge" alt="Português"/>
 </div>
 
 <br/>
 
 <!-- Header com animação de typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+There!+I'm+Gabriel+Simões+👋;Software+Developer+%7C+Brazil+🇧🇷;C%23+%26+.NET+Specialist;Passionate+about+Design+Patterns" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Olá%2C+eu+sou+Gabriel+Simões+👋;Software+Developer+%7C+Brasil+🇧🇷;Especialista+em+C%23+%26+.NET;Apaixonado+por+Design+Patterns" alt="Typing SVG" />
 </div>
 
 <!-- Badges de Perfil -->
@@ -37,28 +37,28 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> Sobre Mim
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
 const gabriel = {
-    location: "Brazil 🇧🇷",
-    role: "Software Developer",
-    experience: "C# & .NET Specialist",
-    passions: ["Clean Code", "Design Patterns", "SOLID"],
-    currentFocus: "Building scalable enterprise solutions",
-    funFact: "I turn coffee into code ☕ → 💻"
+    localização: "Brasil 🇧🇷",
+    cargo: "Software Developer",
+    experiência: "Especialista em C# & .NET",
+    paixões: ["Clean Code", "Design Patterns", "SOLID"],
+    focoAtual: "Construindo soluções empresariais escaláveis",
+    fatoCurioso: "Transformo café em código ☕ → 💻"
 };
 ```
 
 <br/>
 
-- 🎯 **Specialist** in **C# & .NET** application development
-- 🏗️ Strong emphasis on **Design Patterns** and software architecture
-- 📚 Always learning and evolving with new technologies
-- 🤝 Open to collaborations on interesting projects
-- 💬 Ask me about **C#, .NET, SQL Server, Clean Architecture**
+- 🎯 **Especialista** em desenvolvimento de aplicações **C# & .NET**
+- 🏗️ Forte ênfase em **Design Patterns** e arquitetura de software
+- 📚 Sempre aprendendo e evoluindo com novas tecnologias
+- 🤝 Aberto a colaborações em projetos interessantes
+- 💬 Pergunte-me sobre **C#, .NET, SQL Server, Clean Architecture**
 
 <br clear="right"/>
 
@@ -68,18 +68,18 @@ const gabriel = {
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### 💻 Linguagens & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css&theme=dark" alt="Languages"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Bancos de Dados
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" alt="Databases"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Ferramentas & Plataformas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,azure&theme=dark" alt="Tools"/>
 </p>
@@ -111,8 +111,8 @@ const gabriel = {
 
 <div align="center">
   <samp>
-    <b>「 Transforming ideas into code, one commit at a time 🚀 」</b>
+    <b>「 Transformando ideias em código, um commit de cada vez 🚀 」</b>
     <br/><br/>
-    <i>⭐ If you liked my projects, consider leaving a star!</i>
+    <i>⭐ Se você gostou dos meus projetos, considere deixar uma estrela!</i>
   </samp>
 </div>
