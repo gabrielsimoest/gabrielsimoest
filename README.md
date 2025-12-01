@@ -1,14 +1,3 @@
-<!-- Language Selector -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🇺🇸_English-Selected-6C63FF?style=for-the-badge" alt="English"/>
-  &nbsp;&nbsp;
-  <a href="./README-pt.md">
-    <img src="https://img.shields.io/badge/🇧🇷_Português-Clique_Aqui-1a1a2e?style=for-the-badge" alt="Português"/>
-  </a>
-</div>
-
-<br/>
-
 <!-- Header com animação de typing -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+There!+I'm+Gabriel+Simões+👋;Software+Developer+%7C+Brazil+🇧🇷;C%23+%26+.NET+Specialist;Passionate+about+Design+Patterns" alt="Typing SVG" />
@@ -60,26 +49,6 @@ const gabriel = {
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> Tech Stack
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css&theme=dark" alt="Languages"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" alt="Databases"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,azure&theme=dark" alt="Tools"/>
-</p>
-
-</div>
 
 ---
 
