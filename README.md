@@ -39,8 +39,6 @@ const gabriel = {
 
 - 🎯 **Specialist** in **C# & .NET** application development
 - 🏗️ Strong emphasis on **Design Patterns** and software architecture
-- 📚 Always learning and evolving with new technologies
-- 🤝 Open to collaborations on interesting projects
 - 💬 Ask me about **C#, .NET, SQL Server, Clean Architecture**
 </div>
 
